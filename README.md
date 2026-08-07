@@ -1,5 +1,2 @@
-The algorithm to calculate the probability of a fault within 1 year is as follows:
-
-1. Generate all possible combinations
-2. Iterate through all possible combinations, calculating product for each
-3. Add all products together
+Full README.md and PDF write-up at: <br>
+https://github.com/thomas-xza/MCEL30032_wind_power
